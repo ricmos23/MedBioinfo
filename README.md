@@ -1,4 +1,4 @@
-# MedBioinfo 2023 Applied Bioinformatics
+# MedBioinfo 2023 Applied Bioinformatics Riccardo 
 ## repo for re-analysis
 
 ### Data source
